@@ -1,4 +1,4 @@
-# Docker Commands
+# :whale: Docker Commands 
 #### For docker installation
 https://docs.docker.com/engine/install/ubuntu/
 ### To check status of docker 
