@@ -1,4 +1,4 @@
-# :whale: Docker Commands 
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514330/3035/docker.gif?1643514330"> Docker Commands 
 #### For docker installation
 https://docs.docker.com/engine/install/ubuntu/
 ### To check status of docker 
